@@ -24,7 +24,7 @@ github_username:  StSolomon
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: Minima
 plugins:
   - jekyll-feed
 
